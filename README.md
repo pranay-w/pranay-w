@@ -68,7 +68,7 @@ I approach every project as a production-level exercise — structured codebase,
 
 ## Connect
 
-- LinkedIn: *add your LinkedIn URL here*
+- LinkedIn: www.linkedin.com/in/pranay-wabhitkar
 - Email: pranay.wabhitkar26@gmail.com
 
 ---
