@@ -87,8 +87,6 @@ I approach every project as a production-level exercise: structured codebase, me
 | [expense-tracker-python](https://github.com/pranay-w/expense-tracker-python) | CLI expense management tool with authentication, categorized tracking, and persistent storage | Python |
 | [python-quiz-application](https://github.com/pranay-w/python-quiz-application) | Terminal quiz engine with user auth, randomized question delivery, score tracking, and leaderboard | Python |
 | [data-structures-algorithms](https://github.com/pranay-w/data-structures-and-algorithms) | Clean Python implementations of core DSA, including arrays, linked lists, stacks, queues, trees, and graph-focused practice | Python |
-| [python-core-concepts](https://github.com/pranay-w/python-core-concepts) | Structured Python reference covering OOP, built-in data structures, and idiomatic patterns | Python |
-| [frontend-fundamentals](https://github.com/pranay-w/frontend-fundamentals) | Progressive frontend exercises across HTML, CSS, and JavaScript with mini-project implementations | HTML, CSS, JS |
 
 ---
 
