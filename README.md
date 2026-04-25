@@ -4,7 +4,7 @@
 Building at the intersection of intelligent systems and modern web interfaces.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-wabhitkar)
-[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranay.wabhitkar26@gmail.com)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=pranay.wabhitkar26@gmail.com)
 
 <br/>
 
@@ -107,7 +107,7 @@ I treat every project as a production-level exercise — structured codebase, me
 ## Connect
 
 - LinkedIn: [linkedin.com/in/pranay-wabhitkar](https://www.linkedin.com/in/pranay-wabhitkar)
-- Email: [pranay.wabhitkar26@gmail.com](mailto:pranay.wabhitkar26@gmail.com)
+- Email: [pranay.wabhitkar26@gmail.com](https://mail.google.com/mail/?view=cm&to=pranay.wabhitkar26@gmail.com)
 
 <br/>
 
