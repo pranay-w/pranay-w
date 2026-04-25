@@ -6,6 +6,7 @@ Building at the intersection of intelligent systems and modern web interfaces.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-wabhitkar)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranay.wabhitkar26@gmail.com)
 
+<br/>
 
 ## About
 
