@@ -1,17 +1,23 @@
+<div align="center">
+
 # Pranay Wabhitkar
 
 **BTech Computer Science Engineering — AI & Machine Learning**  
 Building at the intersection of intelligent systems and modern web interfaces.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-wabhitkar)
+[![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranay.wabhitkar26@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=white)](https://github.com/pranay-w)
+
+</div>
+
 ---
 
 ## About
 
-I am a CSE undergraduate specializing in Artificial Intelligence and Machine Learning, focused on writing clean, structured code and building projects that solve real problems.
+CSE undergraduate specializing in AI & Machine Learning, focused on writing clean, structured code and building projects that solve real problems.
 
-My current work spans Python-based application development, frontend engineering with React, C programming fundamentals, and continuous Data Structures & Algorithms practice up to graphs and advanced problem-solving patterns.
-
-I approach every project as a production-level exercise: structured codebase, meaningful documentation, and iterative improvement.
+My work spans Python application development, frontend engineering with React, C programming fundamentals, and continuous DSA practice through graphs and advanced problem-solving patterns. I treat every project as a production-level exercise: structured codebase, meaningful documentation, and iterative improvement.
 
 ---
 
@@ -32,50 +38,19 @@ I approach every project as a production-level exercise: structured codebase, me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>
 </p>
 
----
-
-## Technical Skills
-
-**Languages**
-- Python — strong proficiency in OOP, file handling, data structures, and automation
-- C — fundamentals of programming, logic building, loops, arrays, functions, and problem solving
-- JavaScript — working knowledge of ES6+, DOM manipulation, events, and async programming
-- HTML / CSS — proficient in semantic markup, responsive layouts, and modern UI styling
-
-**Frameworks & Libraries**
-- React.js — component-based UI development using JSX, props, state, hooks, and reusable components
-- JSX — writing structured UI logic by combining JavaScript with HTML-like syntax
-- NumPy — numerical operations and array-based data handling in Python projects
-- Pandas — data handling, cleaning, and basic analysis in Python projects
-
-**Data Structures & Algorithms**
-- Strong foundation in arrays, strings, linked lists, stacks, queues, recursion, hashing, searching, and sorting
-- Practicing trees, binary search trees, heaps, graphs, and graph traversal algorithms
-- Learning advanced problem-solving patterns through structured DSA practice
-- Focused on writing clean, optimized, and well-explained solutions for interview preparation
-
-**Core Concepts**
-- Object-Oriented Programming — classes, objects, inheritance, encapsulation, and reusable code design
-- File I/O — reading, writing, and managing persistent data in Python applications
-- CLI Application Design — building terminal-based applications with user input, validation, and structured flow
-- Problem Solving — breaking down complex problems into structured, testable logic
-
-**Tools**
-- Git & GitHub — version control, branching, repository management, and structured commits
-- VS Code — primary development environment
-- Jupyter Notebook — Python experimentation, data handling, and notebook-based learning
+**Languages:** Python · C · JavaScript · HTML/CSS  
+**Frameworks & Libraries:** React.js · NumPy · Pandas  
+**Tools:** Git & GitHub · VS Code · Jupyter Notebook  
+**Concepts:** OOP · File I/O · CLI Design · DSA · Problem Solving
 
 ---
 
 ## Current Focus
 
-- Deepening React.js with component-driven project architecture
-- Practicing JSX, props, state management, hooks, and reusable component patterns
-- Strengthening Data Structures & Algorithms up to graphs and continuing with advanced problem-solving patterns
-- Solving structured DSA problems for interview preparation and competitive programming foundations
+- Component-driven React architecture — state management, hooks, and reusable patterns
+- DSA through graphs and advanced problem-solving for interview preparation
 - Building ML-integrated web applications
-- Strengthening C programming and core computer science fundamentals
-- Preparing for software engineering internship roles
+- Targeting software engineering internship roles
 
 ---
 
@@ -83,31 +58,39 @@ I approach every project as a production-level exercise: structured codebase, me
 
 | Project | Description | Tech |
 |---|---|---|
-| [fitness-hub-frontend](https://github.com/pranay-w/fitness-hub-frontend) | Multi-page fitness platform UI with workout plans, membership tiers, and store interface | HTML, CSS |
+| [fitness-hub-frontend](https://github.com/pranay-w/fitness-hub_frontend_project) | Multi-page fitness platform UI with workout plans, membership tiers, and store interface | HTML, CSS |
 | [expense-tracker-python](https://github.com/pranay-w/expense-tracker-python) | CLI expense management tool with authentication, categorized tracking, and persistent storage | Python |
-| [python-quiz-application](https://github.com/pranay-w/python-quiz-application) | Terminal quiz engine with user auth, randomized question delivery, score tracking, and leaderboard | Python |
-| [data-structures-algorithms](https://github.com/pranay-w/data-structures-and-algorithms) | Clean Python implementations of core DSA, including arrays, linked lists, stacks, queues, trees, and graph-focused practice | Python |
+| [python-quiz-application](https://github.com/pranay-w/quiz-game-python) | Terminal quiz engine with user auth, randomized question delivery, score tracking, and leaderboard | Python |
+| [data-structures-algorithms](https://github.com/pranay-w/data-structures-and-algorithms) | Clean Python implementations of core DSA — arrays, linked lists, stacks, queues, trees, graphs | Python |
 
 ---
 
 ## GitHub Stats
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranay-w&theme=github" alt="GitHub Profile Summary" />
-</p>
+<div align="center">
 
-<p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pranay-w&theme=github" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pranay-w&theme=github" alt="Top Languages by Repository" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=pranay-w&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="165"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranay-w&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" height="165"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=pranay-w&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="165"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pranay-w&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
 
 ---
 
-## Connect
+<div align="center">
 
-- LinkedIn: [www.linkedin.com/in/pranay-wabhitkar](https://www.linkedin.com/in/pranay-wabhitkar)
-- Email: [pranay.wabhitkar26@gmail.com](mailto:pranay.wabhitkar26@gmail.com)
-
----
+[![LinkedIn](https://img.shields.io/badge/Let's%20Connect-LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-wabhitkar)
+&nbsp;
+[![Email](https://img.shields.io/badge/Get%20In%20Touch-Email-ea4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pranay.wabhitkar26@gmail.com)
 
 *Open to internship opportunities in software engineering, frontend development, and AI/ML roles.*
+
+</div>
