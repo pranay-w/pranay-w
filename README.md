@@ -6,7 +6,7 @@ Building at the intersection of intelligent systems and modern web interfaces.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranay-wabhitkar)
 [![Email](https://img.shields.io/badge/Email-ea4335?style=flat-square&logo=gmail&logoColor=white)](mailto:pranay.wabhitkar26@gmail.com)
 
----
+<br/>
 
 ## About
 
@@ -16,7 +16,7 @@ My work spans Python application development, frontend engineering with React, C
 
 I treat every project as a production-level exercise — structured codebase, meaningful documentation, and a commitment to iterative improvement.
 
----
+<br/>
 
 ## Technologies & Tools
 
@@ -35,7 +35,7 @@ I treat every project as a production-level exercise — structured codebase, me
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" height="40"/>
 </p>
 
----
+<br/>
 
 ## Technical Skills
 
@@ -67,7 +67,7 @@ I treat every project as a production-level exercise — structured codebase, me
 - VS Code — primary development environment
 - Jupyter Notebook — Python experimentation, data analysis, and notebook-based learning
 
----
+<br/>
 
 ## Current Focus
 
@@ -77,7 +77,7 @@ I treat every project as a production-level exercise — structured codebase, me
 - Strengthening C programming and core computer science fundamentals
 - Preparing for software engineering internship roles
 
----
+<br/>
 
 ## Featured Projects
 
@@ -88,7 +88,7 @@ I treat every project as a production-level exercise — structured codebase, me
 | [python-quiz-application](https://github.com/pranay-w/quiz-game-python) | Terminal quiz engine with user auth, randomized question delivery, score tracking, and leaderboard | Python |
 | [data-structures-algorithms](https://github.com/pranay-w/data-structures-and-algorithms) | Clean Python implementations of core DSA, including arrays, linked lists, stacks, queues, trees, and graph-focused practice | Python |
 
----
+<br/>
 
 ## GitHub Stats
 
@@ -102,13 +102,13 @@ I treat every project as a production-level exercise — structured codebase, me
   <img src="https://streak-stats.demolab.com?user=pranay-w&theme=github-dark-blue&hide_border=true&background=0D1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" height="165"/>
 </div>
 
----
+<br/>
 
 ## Connect
 
 - LinkedIn: [linkedin.com/in/pranay-wabhitkar](https://www.linkedin.com/in/pranay-wabhitkar)
 - Email: [pranay.wabhitkar26@gmail.com](mailto:pranay.wabhitkar26@gmail.com)
 
----
+<br/>
 
 *Open to internship opportunities in software engineering, frontend development, and AI/ML roles.*
